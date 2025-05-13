@@ -5,9 +5,9 @@
 </div>
 
 ## 🚀 About Me
-    - I’m a third-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT) with a strong interest in backend development.  
-    - Through academic and team projects, I’ve gained hands-on experience working with web technologies, designing RESTful APIs, and implementing authentication systems.  
-    - I'm eager to continue improving my backend skills and contributing to real-world applications through practical experience and collaboration.
+- I’m a third-year Computer Science student at Ho Chi Minh City University of Technology (HCMUT) with a strong interest in backend development.  
+- Through academic and team projects, I’ve gained hands-on experience working with web technologies, designing RESTful APIs, and implementing authentication systems.  
+- I'm eager to continue improving my backend skills and contributing to real-world applications through practical experience and collaboration.
 
 ## 💡 What I've Learned
 - Designed and normalized relational databases using MySQL and PostgreSQL  
@@ -33,7 +33,6 @@
 
 </div>
 
----
 
 ### 🔧 Backend Frameworks & Technologies
 <div align="center">
@@ -47,7 +46,6 @@
 
 </div>
 
----
 
 ### 🔐 Authentication & Authorization
 <div align="center">
@@ -57,7 +55,6 @@
 
 </div>
 
----
 
 ### 🗄️ Databases
 <div align="center">
@@ -68,7 +65,7 @@
 
 </div>
 
----
+
 
 ### ⚙️ Tools & Platforms
 <div align="center">
