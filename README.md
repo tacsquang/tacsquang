@@ -100,7 +100,7 @@ Smart hamster cage management system
 Automated printing system for HCMUT students  
 - 🔧 Built with: NodeJS, ExpressJS, MongoDB  
 - 🏗️ MVC architecture implementation  
-- 💳 Integrated payment system
+- 💳 Integrated payment system via PayOS
 - 📝 RESTful APIs development
 
 ### [Zoo Management](https://github.com/tuitensonne/Zoo-backend)
