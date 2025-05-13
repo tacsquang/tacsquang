@@ -15,7 +15,7 @@
 - Applied design patterns such as MVC, Repository, and Dependency Injection  
 - Practiced basic system architecture design for backend services  
 - Implemented JWT and OAuth 2.0 authentication flows  
-- Integrated third-party services (e.g., SendGrid, Momo, Google OAuth)  
+- Integrated third-party services (e.g., Mailjet, Momo, Google OAuth)  
 - Collaborated with teams using Git, GitHub, and development workflows (branches, pull requests, code reviews)
 
 
