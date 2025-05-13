@@ -15,7 +15,7 @@
 - Applied design patterns such as MVC, Repository, and Dependency Injection  
 - Practiced basic system architecture design for backend services  
 - Implemented JWT and OAuth 2.0 authentication flows  
-- Integrated third-party services (e.g., SendGrid, Momo, Google OAuth)  
+- Integrated third-party services (e.g., Mailjet, Momo, Google OAuth)  
 - Collaborated with teams using Git, GitHub, and development workflows (branches, pull requests, code reviews)
 
 ## 🛠️ Tech Stack
@@ -48,7 +48,7 @@ Smart hamster cage management system
 Automated printing system for HCMUT students  
 - 🔧 Built with: NodeJS, ExpressJS, MongoDB  
 - 🏗️ MVC architecture implementation  
-- 💳 Integrated payment system
+- 💳 Integrated payment system via PayOS
 - 📝 RESTful APIs development
 
 ### [Zoo Management](https://github.com/tuitensonne/Zoo-backend)
